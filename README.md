@@ -52,7 +52,7 @@ plotly
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anakail20/Amazon-Customer-Data-Analysis/tree/main
    ```
 
 2. Install the required Python libraries:
