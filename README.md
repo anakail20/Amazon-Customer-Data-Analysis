@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 
 - **Libraries**: Thanks to the developers of NLTK, TextBlob, and WordCloud for their amazing tools.
-- **Data**: Amazon Customer Review dataset.
+- **Data**: Amazon Customer Review dataset, which is not uploaded cause of the size of it.
 
 ---
 
